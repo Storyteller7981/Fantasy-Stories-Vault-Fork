@@ -1,0 +1,47 @@
+Không lâu sau khi phi thuyền _Aurora_ đã rời khỏi hành tinh Texa, không khí bên trong dần yên tĩnh trở lại. James ngồi ở ghế chỉ huy, cẩn thận kiểm tra lại các hệ thống vận hành của phi thuyền. Từ màn hình điều khiển, các chỉ số hiển thị đều ở mức ổn định, nhưng anh không bao giờ cho phép bản thân chủ quan. Anh biết rằng trong không gian vô tận này, chỉ một sai sót nhỏ cũng có thể khiến họ rơi vào nguy hiểm.
+
+Ocean đứng bên cạnh, đôi mắt sắc bén theo dõi từng chuyển động nhỏ trên màn hình. Dù anh không hiểu hết các hệ thống kỹ thuật phức tạp như James, nhưng khứu giác nhạy bén và bản năng trung thành của anh giúp anh luôn cảnh giác trước mọi bất trắc.
+
+Các bạn nhỏ thì được phép lên đài quan sát với sự của hầu gái Bella. Còn Thiếu tá Hans thì đang tuần tra cùng với tổ đội 4 người lính máy. Tuy Bian đã có nói với cô ấy rằng trên phi thuyền này ngoài họ ra sẽ không có ai khác nhưng cô ấy vẫn cứ nhất định phải đi kiểm tra từng ngóc ngách của con tàu. Nhân dịp này thì James cũng giao nhiệm vụ cho Bian xem hết toàn bộ con tàu xem thữ có chỗ nào cần sửa chữa, bảo trì vệ sinh thì báo cho Mugen đê ông ấy điều động người máy đến thực hiện. Công việc này trước đây thường do Jack làm Bian chỉ lo côg việc giấy tờ cho cả phi thuyền, giờ anh ta cảm thấy nhớ Jack ghê gớm. Tuy nhiên, giờ Jack ở đâu thì chỉ có James mới biết. Jack đang ở đâu nhỉ? (Anh ta đang được James bí mật cử đi trước để trinh sát và tiền trạm. Nhiệm vụ bí mật để chuyến đi có thể xuông sẻ. Tới đây chúng ta đã biết hết các thành viên chủ chốt là có James, Jack, Bian, Ocean, Aiko, Mugen, Captain Cold. Nhóm đã hạt động được 3 năm cùng nhau nên phối hợp rất ăn ý trong nhiệm vụ lần này.)
+
+“Chủ nhân, các hệ thống điều khiển chính vẫn hoạt động bình thường,” Ocean báo cáo sau khi quét qua một loạt dữ liệu trên màn hình.
+
+James khẽ gật đầu, nhưng đôi mắt vẫn không rời khỏi bảng điều khiển. "Tốt, nhưng chúng ta vẫn cần sẵn sàng cho bất cứ tình huống nào. Còn các hệ thống hỗ trợ?" James vẫn cứ suy nghĩ về những khả năng có thể xảy ra như là gặp hải tặc không gian, hiện tại thì có những băng khét tiếng quanh lộ trình của phi đội đang đi như là Râu Bạc, Chúa Hề Jinx, Long Nhân Bang... Đã giao nhiệm vụ cho Jack đi tiền trạm nhưng mà hiện tại chưa có báo cáo gì, chăc phải tầm 1 ngày nữa mới có thể có tim tức tổng thể. Trong khi đó mọi tình huống bất ngờ đều có thẻ xảy ra. Trên đại lộ Vũ Trụ này vẫn có nhiều đoạn đang còn sửa chữa, nhiều tàu thương nhân có đi cùng chiều và ngược chiều với tàu của James cung đã liên lạc với Captain Cold để thông báo tình hình rồi đến giờ thì mọi chuỵện mới chỉ bắt đầu, James biết mình cần phải thả lỏng một chút. Có lẽ do anh coi các vị khách quá đặc biẹt và quan trọng nên mới thấy nặng nề, hãy coi như những hành khách bình thường thôi sẽ thấy nhẹ nhàng hơn chút. Còn tầm 2 tiếng nữa mới đến giờ ăn tối không biết thực đơn tối nay sẽ có gì nhỉ?
+
+Ở bên dưới, trong khoang kỹ thuật, Mugen – thợ rèn lùn tài ba, kỹ sư trưởng của con tàu – đang bận rộn với công việc của mình. Tiếng búa đập vào kim loại vang lên đều đặn, mỗi cú đập mạnh mẽ như thể hiện sự tỉ mỉ và chuyên tâm của Mugen. Dù thân hình nhỏ bé, ông lại có kỹ năng vô song trong việc chế tạo và sửa chữa phi thuyền cũng như vũ khí. Cặp mắt lấp lánh của ông đầy tinh thần lạc quan và sự vui vẻ, điều mà bất kỳ ai làm việc với ông đều cảm nhận được. Công việc trên tàu sẽ bị coi là nhàm chán nếu không có tình yêu đam mê trong đó, và cả tính kỹ lương và kỷ luật nữa. Ông luôn suy nghĩ như thế, cho nên ôn coi phi thuyền này như là một phần thuộc về mình, và phải chăm sóc cho phi thuyền hoạt động tốt đó chính là việc của ông muốn làm chứ không phải cần phải làm nữa. Từng con ốc vít, từng cái van áp suất không khí. Dưới sự chỉ đạo của ông thì các rô-bốt sẽ hàn lại, sơn chống rỉ sét cho chỗ ống dẫn này, tra thêm chất bôi chơi cho bánh răng kia. Một con tàu không lớn nhưng mà tỷ mỉ từng ngày mỗi ngày một chút, thì làm mãi cũng không hết nữa.
+
+Bên cạnh Mugen, Aiko – cô gái người máy với hình dạng thanh thoát của một thiếu nữ 20 tuổi – đang kiểm tra các bộ phận của phi thuyền. Với trí thông minh nhân tạo vượt trội, Aiko có khả năng hỗ trợ mọi mặt từ chiến đấu, y tế đến bảo trì. Đôi mắt của cô sáng lên mỗi khi quét qua các hệ thống, đảm bảo rằng không có lỗi nào bị bỏ sót. Cô nhẹ nhàng chỉnh sửa từng đường dây, cẩn thận tra dầu vào các khớp nối, và điều chỉnh các mô-đun để phi thuyền vận hành trơn tru. Cô thuộc mẫu A.I luôn học hỏi những điều mới và có chọn lọc để ngày càng phát triển hơn, giống với tổ tiên cô cách đây 100 năm, chứ không phải giống thế hệ A.I tự mãn bây giờ, họ không còn học hỏi nữa mà tự lão há chính mình và chỉ còn biết hoạt động theo lệnh và không học tập gì thêm.
+
+“Mugen, các động cơ dự phòng thế nào rồi?” Aiko hỏi, giọng nói trong trẻo nhưng đầy chắc chắn. Đây là một câu hỏi trọng mục cần hỏi, cô đang nghĩ đến bổ sung thêm một vài câu hỏi mỗi ngày nữa để công việc trên tàu có thể vận hành trơn tru hơn.
+
+“Tốt, tốt lắm! Những cỗ máy trong phi thuyền này đang phối hợp hoạt động trơn tru này có thể đưa chúng ta qua một cơn bão sao băng mà không hề hấn gì,” Mugen cười lớn, vừa nói vừa lau mồ hôi trên trán. “Nhưng, tất nhiên, không ai muốn kiểm tra giả thuyết đó đâu, phải không? À nhân tiện bửa tối nay sẽ có gì ấy nhỉ? Cô đừng để đầu tháng chúng tôi và hành khác phải ăn lương khô thôi đấy nhé! Hahaha”
+
+Aiko khẽ mỉm cười. Dù là người máy, nhưng cô được lập trình với khả năng thể hiện cảm xúc và sự quan tâm chu đáo như con người. "Hy vọng chúng ta không phải đối mặt với tình huống như vậy." " Và bên phía hầu gái Bella đề nghị hợp tác cùng đầu bếp của chúng ta để làm ra một số món ăn đặc biệt thiết đãi cho cả phi hành đoàn rồi."
+
+"Ồ đó là những món gì thế? Có phải theo thực đơn hoàn gia không?". Mugen ánh lên tia sáng, nước miếng bắt đàu ứa ra. Lão nhớ lần cuối được ăn các món ăn ngon là khi nào đó mấy tháng trước rồi, để chuẩn bị cho chuyến đi này đã lâu khong được ăn món gì đặc biệt. Chả là phi thuyền này vẫn còn đang trả góp cho Ngân Hàng Vũ Trụ cho nên hằng tháng thu nhập của bọn đều phải dành tận 40% để trả tiền ngân hàng rồi. CHi tiêu những việc khác phải tính toán thật kỹ, đồng thời phải kiếm thêm thu nhập lớn hơn. Như việc hộ tống này cung được trả một số tiền hậu hĩnh đây. Nghe James và thuyền trưởng bàn nhau là nếu phi vụ này thành công thì có thể trả được tới 80% khoảng nợ ngân hàng luôn đấy. Nên ông cung đáng mong đợi. Dù sao đây cung là nhà của bọn họ. Vợ con thì ông không còn nữa nhưng tất cả đều như một gia đình quay quanh cặp đôi James và Aiko, tuy là con người và A.I nhưng hai bọn họ chắc chắn là yêu nhau say đắm rồi.
+
+"Bọn họ sẽ nấu các món như ba chỉ giòn bì, bún bò huế, bánh rau câu thạch, thêm vài món salad và nước hoa quả Rim" Thông báo của Aiko cắt ngang suy nghĩ của Mugen. 
+
+Trong khi đó, ở một góc khác của phi thuyền, Bian đang hăng hái đi qua đi lại, kiểm tra từng phòng. Mặc dù còn thiếu kinh nghiệm, anh ta luôn tràn đầy năng lượng và quyết tâm. Bian khao khát chứng tỏ bản thân trước James và các thành viên khác, và nhiệm vụ lần này là cơ hội tuyệt vời để anh khẳng định lòng quả cảm của mình.
+
+“Phòng ngủ của các hoàng tử và công chúa đã sẵn sàng,” Bian nói qua bộ đàm. “Tôi đã đảm bảo rằng tất cả đều sạch sẽ và đầy đủ tiện nghi. Thêm vào đó, tôi cũng đã chuẩn bị một số trò chơi để giữ họ bận rộn trong hành trình.”
+
+“Giỏi lắm, Bian,” James đáp lại từ phòng điều khiển. “Hãy luôn để mắt đến chúng. Đừng quên, Tam rất thích trốn đi khám phá, còn Thiên có thể khiến cậu gặp rắc rối với sự tò mò vô tận của cậu ta.”
+
+Bian bật cười, đáp: “Vâng, thưa ngài, tôi sẽ cẩn thận. Nhưng có lẽ An sẽ dễ chịu hơn, cô bé nhút nhát và ngoan ngoãn hơn hai người anh chị của mình.”
+
+“Đừng quá chắc chắn,” James cảnh báo, nhớ lại một lần trước đây An đã lặng lẽ trốn vào một góc và suýt nữa thì bị lạc. “Cô bé có thể nhút nhát, nhưng lại rất dễ bị lạc nếu không để ý.”
+
+Khi chuẩn bị hoàn tất, tiếng cười của Tam và Thiên vang lên từ khoang giải trí. Hai đứa trẻ đã nhanh chóng kết hợp nhau, đuổi nhau quanh phòng. Thiên liên tục hỏi Bian về mọi thứ cậu bé nhìn thấy: “Cái này dùng để làm gì?” “Đây là gì vậy?” “Cái nút này bấm có được không?”
+
+Bian kiên nhẫn trả lời từng câu hỏi, nhưng không quên để mắt đến Tam, người đang lặng lẽ tìm kiếm cách mở cửa thoát hiểm để lẻn ra ngoài phi thuyền. Anh nhanh chóng bước tới chặn trước mặt cô bé, mỉm cười nhưng giọng đầy cảnh giác. “Không đâu, công chúa. Cửa này là để thoát hiểm, không phải để khám phá.”
+
+Tam tỏ vẻ thất vọng, nhưng rồi nhanh chóng bật cười và chuyển sang thứ khác khiến cô bé tò mò. Dường như không gì có thể giữ chân cô bé trong thời gian dài, và James biết rằng hành trình này sẽ đầy rẫy những thử thách về việc giữ ba đứa trẻ an toàn và bận rộn.
+
+Cuối cùng, sau khi tất cả đã hoàn tất, James ra lệnh cất cánh. Mugen và Aiko đứng sẵn sàng ở khoang kỹ thuật, Bian và Ocean kiểm tra lần cuối các phòng. Phi thuyền từ từ rời khỏi quỹ đạo hành tinh Texa, hướng tới không gian bao la.
+
+James dựa lưng vào ghế, trong lòng nặng trĩu lo âu. Anh biết rằng hành trình này không chỉ đơn giản là đưa các hoàng tử và công chúa đến hành tinh Masa. Những thế lực ngoài kia có thể sẽ không để họ đi dễ dàng như vậy. Và hơn hết, đây là bài kiểm tra cho lòng trung thành, sự quả cảm và tinh thần đồng đội của tất cả mọi người trên phi thuyền _Aurora_.
+
+Nhưng dù khó khăn gì chờ đợi phía trước, James cũng quyết tâm hoàn thành nhiệm vụ. Anh thở dài và nhìn vào không gian đen vô tận trước mặt, những vì sao lấp lánh như những ngọn đèn chỉ đường cho cuộc phiêu lưu đầy thử thách sắp tới.
+
+Hành trình đã chính thức bắt đầu.

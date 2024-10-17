@@ -1,0 +1,11 @@
+**Chương Mở Đầu: Dân Tộc Du Mục Thương Nhân**
+
+Trên khắp những vùng đất rộng lớn và đa dạng của các vương quốc, có một dân tộc đặc biệt, nổi tiếng với sự di động không ngừng và sự đa dạng về nghề nghiệp: **Dân Tộc Du Mục Thương Nhân**. Không giống những tộc người khác, nơi các thành viên chỉ chuyên sâu vào một lĩnh vực, tộc người này tập hợp trong mình nhiều vai trò: thương nhân khôn ngoan, lính đánh thuê kiên cường, nông dân cần cù, và cả những ngành nghề hiện đại như y tá, bác sĩ, kỹ sư, nhà khoa học, sử học và khảo cổ học.
+
+Họ không có một vùng đất cố định nào là quê hương, thay vào đó, cả dân tộc sống trong những căn nhà di động khổng lồ, được thiết kế đặc biệt để di chuyển qua mọi địa hình, từ những sa mạc khô cằn đến các dãy núi hiểm trở hay rừng rậm hoang sơ. Những phương tiện này không chỉ là nơi cư trú, mà còn là xưởng làm việc, trường học, bệnh viện, và trung tâm thương mại di động. Với các đoàn xe này, dân tộc du mục có thể dễ dàng di chuyển xuyên suốt các vương quốc, mở rộng tầm ảnh hưởng và giao thương với mọi quốc gia họ đặt chân đến.
+
+Mỗi thành viên trong tộc từ khi sinh ra đã được dạy cách trở thành một phần của sự di động ấy. Trẻ em sớm được học về thương mại, kỹ năng chiến đấu, hay thậm chí những công nghệ hiện đại. Khi lớn lên, họ có thể tự chọn con đường của mình: trở thành một thương nhân sắc sảo, một lính đánh thuê thiện chiến, hoặc có thể là một kỹ sư sáng tạo. Không chỉ vậy, những người có thiên hướng nghiên cứu còn có thể theo đuổi sự nghiệp về lịch sử, khoa học hay khảo cổ học, khám phá và bảo tồn những bí mật của các nền văn minh cổ đại.
+
+Nhờ vào những kỹ năng đa dạng và tinh thần thích nghi với mọi hoàn cảnh, dân tộc du mục này không chỉ sinh tồn mà còn phát triển mạnh mẽ, trở thành một thế lực quan trọng và không thể thiếu trên các vùng đất họ đi qua. Sự hiện diện của họ, dù chỉ thoáng qua, luôn để lại những dấu ấn sâu đậm, không chỉ trong thương mại mà còn cả văn hóa, khoa học và lịch sử.
+
+Đó là cách họ sống, cách họ tồn tại: luôn di chuyển, luôn học hỏi và không ngừng phát triển. Và câu chuyện về họ bắt đầu từ đây, trên con đường vô tận mà không có giới hạn.

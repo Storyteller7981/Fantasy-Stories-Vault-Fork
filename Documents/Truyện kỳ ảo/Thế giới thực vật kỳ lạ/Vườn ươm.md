@@ -1,0 +1,1 @@
+Trong vườn ươm này ác cây được lơ lửng trên không trung nhờ vào một qua cầu chứa đủ đát, nước, không khi và ánh sáng.

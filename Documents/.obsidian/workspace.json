@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "8e82558d82741938",
+    "type": "split",
+    "children": [
+      {
+        "id": "5011291b4d849dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1efa0994795cdd3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "947e43d8926b75ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James/Chương 3 - Chuyến bay đầu tiên.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c69aad13fd69764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James/Chương 4 - Tấn công bất ngờ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5045166d504c809e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James/Chương 1 - Nhiệm vụ được giao.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2146576cbc9d020b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ceae31d5ebd472d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79361c595d773eaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "316c30a03434aea4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2ecdd49e7e41062",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 456.5
+  },
+  "right": {
+    "id": "57f6c3a9bb402a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "2af50b7599f0340e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "280ff2de93fae897",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James/Chương 4 - Tấn công bất ngờ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24ffe98d1a9d0ec0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James/Chương 4 - Tấn công bất ngờ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ca74957023d2783",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddaccdd45cdca67c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James/Chương 4 - Tấn công bất ngờ.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6c69aad13fd69764",
+  "lastOpenFiles": [
+    "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James/Chương 3 - Chuyến bay đầu tiên.md",
+    "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James/Chương 2 - Chuẩn bị khởi hành.md",
+    "Testing books.md",
+    "Truyện kỳ ảo/How to build Automation Framework from scratch.md",
+    "Untitled.canvas",
+    "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James/Chương 1 - Nhiệm vụ được giao.md",
+    "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James/Chương 4 - Tấn công bất ngờ.md",
+    "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James/Chương 5 - Vượt qua cướp biển.md",
+    "Truyện kỳ ảo/Huyền thoại về hiệp sĩ không gian James",
+    "Truyện kỳ ảo/Nếu thế giới chỉ còn 99 ngày/Cỗ máy thời gian.md",
+    "Truyện kỳ ảo/Nếu thế giới chỉ còn 99 ngày/Ngày thứ 50.md",
+    "Truyện kỳ ảo/Nếu thế giới chỉ còn 99 ngày/Ngày thứ 75.md",
+    "Truyện kỳ ảo/Nếu thế giới chỉ còn 99 ngày/Ngày thứ 80.md",
+    "Truyện kỳ ảo/Nếu thế giới chỉ còn 99 ngày/Nhóm Aira.md",
+    "Truyện kỳ ảo/Nếu thế giới chỉ còn 99 ngày/Thế giới này chỉ còn 99 ngày. Bạn sẽ làm gì?.md",
+    "Truyện kỳ ảo/Danh sách các loài có trí thông minh.md",
+    "Truyện kỳ ảo/Nếu thế giới chỉ còn 99 ngày",
+    "Truyện kỳ ảo/Cuộc chiến sinh tồn Trong Rừng Quái Vật Hắc Ám Sâm Lâm.md",
+    "Truyện kỳ ảo/Chuyện Kinh hoàng đô thị.md",
+    "Truyện kỳ ảo/Đại Nam Phủ.md",
+    "Truyện kỳ ảo/2024-10-02.md",
+    "Truyện kỳ ảo/Phần Năm City - Phan Thị/Chương 3 - Một đội khác của thương đoàn - Trên thuyền.md",
+    "Truyện kỳ ảo/2024-09-26.md",
+    "Truyện kỳ ảo/Phần Một Hội An Thành Bang/Chương 10 - Vị Thần Bão tố đã giáng bão vào Đại Nam Đế Quốc.md",
+    "Truyện kỳ ảo/Phần Một Hội An Thành Bang/Chương 9 - Các món ẩm thực tại Hội An.md",
+    "Truyện kỳ ảo/Phần Một Hội An Thành Bang/Chương 8 - Mạc Phủ và Cao Bằng Quốc.md",
+    "Truyện kỳ ảo/Phần Một Hội An Thành Bang/Chương 7 - Trịnh Nguyễn phân tranh và thế cục thế giới.md",
+    "Truyện kỳ ảo/Phần Một Hội An Thành Bang/Chương 6 - Lược sử loài người cuốn sách được đọc với Jodie.md",
+    "Truyện kỳ ảo/Phần Một Hội An Thành Bang/Chương 5 - Trận chiến giữa nhân loại và Ma Sói trong thành cổ Hội An.md",
+    "Pasted image 20240930220518.png",
+    "Truyện kỳ ảo/Phần Năm City - Phan Thị",
+    "Truyện kỳ ảo/Pasted image 20240926114416.png",
+    "Pasted image 20240925112632.png",
+    "Truyện kỳ ảo/Thế giới của các ngự sư",
+    "Truyện kỳ ảo/Thế giới thực vật kỳ lạ",
+    "Untitled 1",
+    "Truyện kỳ ảo/Phần Bốn - Những câu chuyện ẩm thực của thế giới",
+    "Truyện kỳ ảo/Phần Ba - Câu chuyện về những thợ săn quái vật.",
+    "Truyện kỳ ảo/Phần Hai chuyến phiêu lưu của cậu bé du mục",
+    "Truyện kỳ ảo/Phần Một Hội An Thành Bang"
+  ]
+}

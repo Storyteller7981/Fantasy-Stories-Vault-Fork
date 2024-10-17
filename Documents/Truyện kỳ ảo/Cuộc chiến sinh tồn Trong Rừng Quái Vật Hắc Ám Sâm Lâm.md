@@ -1,0 +1,7 @@
+Thế giới này là một thế giới rộng lớn với một lục địa rất lớn, mà vùng trung tâm của lục địa chính là một dãy rừng khổng lồ, nhân loại ở đây tuy đông, nhưng chỉ mới sống được 1% diện tích lục địa xung quanh khu rừng gọi là Hắc Ám Sâm Lâm. Xung quanh HASL chính là hàng trăm quốc gia, và khi liên minh các quốc gia thành lập gọi là Liên Hợp Quốc thì họ thấy để tránh sự xung đột và chiến tranh, cung như để thúc đẩy sự khai thác vào sâu bên trong rừng này. Họ đã tổ chức ra một cuộc thi mang tính toàn cầu đó là **Thử Thách Sinh Tồn Hoang Dã: Đấu Trường Hắc Lâm**.
+
+Giải thưởng của cuộc thi rất là phong phú, giải nhất là "Vương Miện Sinh Tồn", các giải khác có thể có những vũ khí huyền thoại, ngoài ra còn có một **Kho báu cổ đại** giấu trong trung tâm của khu rừng Hắc Ám Sâm Lâm. Rất hấp dẫn vì ở tròng rừng thì có nhiều điều quý giá nữa. Đối với đầu bếp đó là là các nguyên liệu nấu ăn, hương vị, dinh dưỡng mang lại. Đối với với thầy thuốc đó chính là thảo dược, thuốc từ tự nhiên và bí phương từ trong mê cung đổ nát. Đối với người thợ mỏ thì đó là vàng bạc, kim loại quý và đá quý. Đối với người luyện võ thì đó chính là bí kí võ công. Đối với các ngự thú sư đó là các yêu thú.
+
+Cuộc thi này diễn ra trong vòng 3 năm sau khi kết thúc 3 năm không có người nào sống sót thì không có giải, hoặc có nhiều hơn một người thì không giành được giải
+
+Nhân vật chính của chúng ta là Lucarius một anh chàng vừa mới 25 tuổi bây giờ anh ấy đang tham gia đăng ký vào cuộc thi. Anh 

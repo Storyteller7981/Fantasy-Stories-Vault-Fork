@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "99671eae960b25f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fedd1f4ffaa82301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e6baeff4a4af3ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phần Một Hội An Thành Bang/Chương 1 - Hải Tặc mũ rơm đến.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3567b5a7684f32a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phần Một Hội An Thành Bang/Chương 3 - Buổi liveshow Tuấn Duy Hưng Mạnh để quyên góp cho đồng bào lũ lụt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1715e19ab856c987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phần Một Hội An Thành Bang/Chương 1 - Hải Tặc mũ rơm đến.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "225487d8cc916fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phần Một Hội An Thành Bang/Chương 5 - Trận chiến giữa nhân loại và Ma Sói trong thành cổ Hội An.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c53c1e20d68ff95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phần Một Hội An Thành Bang/Chương 4 - Cuộc dẹp loạn giang hồ ở Mac Town của biệt đội Cơm Tấm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ed5b11b7d7d75e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phần Một Hội An Thành Bang/Chương 6 - Lược sử loài người cuốn sách được đọc với Jodie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2640b0ba1db227c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44dfb6d5b20ca9d9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0fc39adb4cfc1164",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7bfbf7021762bd06",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fdee20848488a991",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f183d4fc5f040f87",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5ca52508458252f6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "28510a5e6a44b596",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2024-10-07.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4063c85979c5fd59",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2024-10-07.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e1dca5940158162e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2024-10-07.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2640b0ba1db227c1",
+  "lastOpenFiles": [
+    "How to build Automation Framework from scratch.md",
+    "2024-10-07.md",
+    "2024-10-02.md",
+    "2024-10-01.md",
+    "2024-09-28.md",
+    "2024-09-27.md",
+    "Pasted image 20240927083048.png",
+    "2024-09-26.md",
+    "Pasted image 20240926114416.png",
+    "Phần Một Hội An Thành Bang/Chương 1 - Hải Tặc mũ rơm đến.md",
+    "2024-09-24.md",
+    "2024-09-25.md",
+    "Phần Một Hội An Thành Bang/Chương 9 - Các món ẩm thực tại Hội An.md",
+    "Phần Một Hội An Thành Bang/Chương 10 - Vị Thần Bão tố đã giáng bão vào Đại Nam Đế Quốc.md",
+    "2024-09-21.md",
+    "2024-09-23.md",
+    "Phần Bốn - Những câu chuyện ẩm thực của thế giới",
+    "Phần Ba vvBa- Câu chuyện về những thợ săn quái vật.",
+    "2024-09-22.md",
+    "Phần Một Hội An Thành Bang/Chương 9 các món ẩm thực tại hội an.md",
+    "Phần Một Hội An Thành Bang/Chương 8 - Mạc Phủ và Cao Bằng Quốc.md",
+    "Phần Một Hội An Thành Bang/Chương 7 - Trịnh Nguyễn phân tranh và thế cục thế giới.md",
+    "Phần Một Hội An Thành Bang/Chương 6 - Lược sử loài người cuốn sách được đọc với Jodie.md",
+    "Phần Một Hội An Thành Bang/Chương 4 - Cuộc dẹp loạn giang hồ ở Mac Town của biệt đội Cơm Tấm.md",
+    "Phần Một Hội An Thành Bang/Chương 5 - Trận chiến giữa nhân loại và Ma Sói trong thành cổ Hội An.md",
+    "Phần Một Hội An Thành Bang/Chương 3 - Buổi liveshow Tuấn Duy Hưng Mạnh để quyên góp cho đồng bào lũ lụt.md",
+    "2024-09-20.md",
+    "Phần Một Hội An Thành Bang/Chương mở đầu - Prologue.md",
+    "hehe test.md"
+  ]
+}
