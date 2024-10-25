@@ -16,7 +16,9 @@
                 "file": "Phần Một Hội An Thành Bang/Chương 1 - Hải Tặc mũ rơm đến.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chương 1 - Hải Tặc mũ rơm đến"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Phần Một Hội An Thành Bang/Chương 3 - Buổi liveshow Tuấn Duy Hưng Mạnh để quyên góp cho đồng bào lũ lụt.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chương 3 - Buổi liveshow Tuấn Duy Hưng Mạnh để quyên góp cho đồng bào lũ lụt"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Phần Một Hội An Thành Bang/Chương 1 - Hải Tặc mũ rơm đến.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chương 1 - Hải Tặc mũ rơm đến"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Phần Một Hội An Thành Bang/Chương 5 - Trận chiến giữa nhân loại và Ma Sói trong thành cổ Hội An.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chương 5 - Trận chiến giữa nhân loại và Ma Sói trong thành cổ Hội An"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Phần Một Hội An Thành Bang/Chương 4 - Cuộc dẹp loạn giang hồ ở Mac Town của biệt đội Cơm Tấm.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chương 4 - Cuộc dẹp loạn giang hồ ở Mac Town của biệt đội Cơm Tấm"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "Phần Một Hội An Thành Bang/Chương 6 - Lược sử loài người cuốn sách được đọc với Jodie.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chương 6 - Lược sử loài người cuốn sách được đọc với Jodie"
             }
           },
           {
@@ -88,11 +100,41 @@
                 "file": "2024-10-07.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-07"
+            }
+          },
+          {
+            "id": "7f4c80be0a060260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-19"
+            }
+          },
+          {
+            "id": "6328028a943d36a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5AM club.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5AM club"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -108,7 +150,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -123,7 +167,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -134,7 +180,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -142,7 +190,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -158,7 +208,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-10-07.md",
+            "file": "Cities and dragons ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,7 +216,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -175,10 +227,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-10-07.md",
+            "file": "Cities and dragons ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -187,8 +241,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-10-07.md"
-          }
+            "file": "Cities and dragons ideas.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -204,17 +260,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2640b0ba1db227c1",
+  "active": "6328028a943d36a3",
   "lastOpenFiles": [
-    "How to build Automation Framework from scratch.md",
+    "Pasted image 20241021085552.png",
+    "Pasted image 20241021085539.png",
+    "Pasted image 20241021085528.png",
+    "Pasted image 20241021085517.png",
+    "Pasted image 20241021085505.png",
+    "Pasted image 20241021085452.png",
+    "Pasted image 20241021085436.png",
+    "Pasted image 20241021085423.png",
+    "Pasted image 20241021085406.png",
+    "Pasted image 20241021085353.png",
+    "2024-10-19.md",
+    "5AM club.md",
+    "Cities and dragons ideas.md",
     "2024-10-07.md",
+    "How to build Automation Framework from scratch.md",
     "2024-10-02.md",
     "2024-10-01.md",
     "2024-09-28.md",
     "2024-09-27.md",
     "Pasted image 20240927083048.png",
     "2024-09-26.md",
-    "Pasted image 20240926114416.png",
     "Phần Một Hội An Thành Bang/Chương 1 - Hải Tặc mũ rơm đến.md",
     "2024-09-24.md",
     "2024-09-25.md",
@@ -231,9 +299,6 @@
     "Phần Một Hội An Thành Bang/Chương 6 - Lược sử loài người cuốn sách được đọc với Jodie.md",
     "Phần Một Hội An Thành Bang/Chương 4 - Cuộc dẹp loạn giang hồ ở Mac Town của biệt đội Cơm Tấm.md",
     "Phần Một Hội An Thành Bang/Chương 5 - Trận chiến giữa nhân loại và Ma Sói trong thành cổ Hội An.md",
-    "Phần Một Hội An Thành Bang/Chương 3 - Buổi liveshow Tuấn Duy Hưng Mạnh để quyên góp cho đồng bào lũ lụt.md",
-    "2024-09-20.md",
-    "Phần Một Hội An Thành Bang/Chương mở đầu - Prologue.md",
-    "hehe test.md"
+    "Phần Một Hội An Thành Bang/Chương 3 - Buổi liveshow Tuấn Duy Hưng Mạnh để quyên góp cho đồng bào lũ lụt.md"
   ]
 }
